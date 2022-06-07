@@ -19,3 +19,12 @@ Mobile Operator Clients Classification| Having client data I had to design ML mo
 Bank Churn Prediction|Analysis of possible client churn in order to develop a strategy (whether to retain old clients or attract new ones)|Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math
 |   |   | 
 Oil Wells Development| Conducted analysis of the best region to extract oil. Built an ML model to find the region where well development will bring most profit with least loss risk |Pandas, Sklearn, Math, Numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning
+|   |   | 
+ML Model for a metalworking enterprise| Built a model to predict the recovery rate of gold from gold ore in order to help the enterprise to optimize production in such a way so as not to launch a potentially unprofitable plant| Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning
+|   |   | 
+Data Protection Algorithm| Developed an algorithm to encrypt the personal information of clients of the insurance company using the data conversion method| Pandas, Seaborn, Numpy, Sklearn, Machine Learning
+|   |   | 
+Car Price Prediction| Developed ML model to predict the possible price of you car based on the given technical characteristics| Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost
+|   |   | 
+Taxi Trip Prediction| Trained an ML model to predict the potential number of taxi trips for the next hour|Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning, TimeSeries
+|   |   | 
