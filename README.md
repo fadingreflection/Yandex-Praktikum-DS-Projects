@@ -15,3 +15,7 @@ Identification of a profitable mobile tariff | Based on the data provided by mob
 Identifying Strategy for Game Ads Development | Using historical data on computer games sales, user and expert ratings, genres and platforms. I have managed to reveal underlying patterns that contribute to the success of a game| Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn, SciPy
 |   |   | 
 Mobile Operator Clients Classification| Having client data I had to design ML model to classify clients into different categories and recommend them a suitable tariff which would meet their needs|Machine Learning, Pandas, Numpy, Python, Seaborn
+|   |   | 
+Bank Churn Prediction|Analysis of possible client churn in order to develop a strategy (whether to retain old clients or attract new ones)|Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math
+|   |   | 
+Oil Wells Development| Conducted analysis of the best region to extract oil. Built an ML model to find the region where well development will bring most profit with least loss risk |Pandas, Sklearn, Math, Numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning
