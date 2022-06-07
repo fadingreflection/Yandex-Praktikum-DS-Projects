@@ -28,3 +28,4 @@ Car Price Prediction| Developed ML model to predict the possible price of you ca
 |   |   | 
 Taxi Trip Prediction| Trained an ML model to predict the potential number of taxi trips for the next hour|Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning, TimeSeries
 |   |   | 
+Toxic Comments Identification | Build ML model of comment moderation by automating their toxicity assessment. Trained the model to classify comments into toxic and non-toxic ones | Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn
