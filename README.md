@@ -7,4 +7,4 @@ Project Name                     |                     Project Summary          
 Yandex.Music: Identifying        |Having data about the activity of users from Moscow and  |Python, pandas, matplotlib, seaborn    |
 Preferences of Moscow and St.     St. Petersburg I had to identify their preferable genres                                        
 Petersburg Users                  and establish listening patterns based on weekdays                                              
--------------------------------- |---------------------------------------------------------|---------------------------------------|
+-
