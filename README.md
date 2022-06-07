@@ -13,3 +13,5 @@ Real Estate Market Analysis| Case of fraud-prevention analysis where I had to id
 Identification of a profitable mobile tariff | Based on the data provided by mobile operators, I analyzed customer behavior and found the optimal plan for the company |Python, Pandas, Matplotlib, numpy, SciPy, Statistics, Statistical Hypothesis testing, Math, Seaborn
 |   |   | 
 Identifying Strategy for Game Ads Development | Using historical data on computer games sales, user and expert ratings, genres and platforms. I have managed to reveal underlying patterns that contribute to the success of a game| Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn, SciPy
+|   |   | 
+Mobile Operator Clients Classification| Having client data I had to design ML model to classify clients into different categories and recommend them a suitable tariff which would meet their needs|Machine Learning, Pandas, Numpy, Python, Seaborn
